@@ -1,0 +1,2 @@
+# PORSUKURL
+kısaca link kısaltıcıdır.
