@@ -1,5 +1,5 @@
 # PORSUKURL
-kısaca link kısaltıcıdır.
+link ve url kısatmanıza ve maskelemenize yarar.
 
 ----KURULUM----
 
